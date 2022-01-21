@@ -1,5 +1,5 @@
 # job-training-wages
-Introduction
+## Introduction
 In the 1970s, researchers in the United States ran several randomized experiments intended to evaluate public policy programs. One of the most famous experiments is the National Supported Work (NSW) Demonstration, in which researchers wanted to assess whether or not job training for disadvantaged workers had an effect on their wages. Eligible workers were randomly assigned either to receive job training or not to receive job training. Candidates eligible for the NSW were randomized into the program between March 1975 and July 1977.
 
 We analyze a subset of the data from the NSW Demonstration containing only male participants. These and other data were originally analyzed in a highly influential paper by the economist Robert Lalonde. Two relevant references for the study are:
